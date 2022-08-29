@@ -48,7 +48,7 @@ global.sig = 'https://www.instagram.com/ksa.rxza'
 global.sgh = 'https://github.com/Jikarinka'
 global.sgc = 'https://chat.whatsapp.com/JMeo4wMcRP98RrS3VK6qbO'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://youtu.be/YynDWAT0ORo'
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `•\nM\no\nt\no\nk\no\n-\nA\ni\n\n•\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
